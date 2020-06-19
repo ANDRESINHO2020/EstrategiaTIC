@@ -1,0 +1,42 @@
+1Planteamiento del problema (1) 
+2Levantamiento de Informacion  
+3Diseñar cuestionario entrevista grupal 
+4Organizar entrevista a Profesores
+5Realizar Entrevista a Profesores
+6Diseño de la encuesta a Estudiantes
+7Aplicar Encuesta a Estudiantes
+8Analizar Resultados Encuesta a Estudiantes
+9Graficar Resultados de Encuesta a Estudiantes 
+10Documento de requerimientos de software  
+11Requerimientos funcionales
+12Requerimientos software
+13Requerimientos hardware
+14Requerimientos no-funcionales
+15Determinacion Capacidades del Software 
+16Mapa de Procesos (3)
+17Mapa Proceso Profesores
+18Mapa Proceso General Para Proyecto
+19Mapa Proceso Estudiantes 
+20Modelo Entidad Relacional (4)
+21Identificar Entidades y Relacionarlas Entre Si  
+22Diccionario de Datos (5)
+23Identificar Tablas
+24Identificar Columnas
+24Identificar Tipos de Datos Ingresados
+25Identificar Tamaño de Datos Ingresados
+26Procecer a Llenar Datos en el Diccionario
+27Diagrama de clases (6)
+28identificar  las clases que se necesitan
+29Obtener las caracteristicas que se necesitan
+30Obtener las acciones de las clases que intervienen
+31graficar
+32Casos de uso (7)
+33Identificar los actores que intervienen 
+34identificar las funcionalidades de cada actor
+35realizar las relaciones de cada actor 
+36Sistema control de versiones (8)
+37Instalacion del software 
+38 agregar contenido que puede variar (versiones)
+39Cronograma de tareas (9) 
+40 Realizar el cronogramas de tareas
+ 
